@@ -5,8 +5,8 @@
 
 
 
-- 🔭 I’m currently working on Ecom Express as Supervisor - operation
-- 🌱 I’m currently learning Excel, Power BI, Python, SQL
+- 🔭 I’m currently working on ||Ecom Express as Supervisor - operation||
+- 🌱 I’m currently learning *Excel, Power BI, Python, SQL*
 - 📫 How to reach me **sahooabhijit.iit@outlook.in**
 - ⚡ Fact **Data is the Future**
 <h3 align="left">Connect with me:</h3>
